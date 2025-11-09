@@ -1,0 +1,4 @@
+node_modules
+weather-backend/node_modules
+weather-frontend/node_modules
+weather-backend/.env
